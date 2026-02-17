@@ -1,11 +1,11 @@
 # Seq2seq-Translator
-Attention-based Sequence-to-Sequence model for machine translation, implemented in PyTorch.  
-Includes training pipeline, teacher forcing, BLEU evaluation, and full encoder–decoder architecture with additive attention.
+Attention based Sequence to Sequence model for machine translation, implemented in PyTorch.  
+Includes training pipeline, teacher forcing, BLEU evaluation, and full encoder decoder architecture with additive attention.
 
 ---
 
 ## Overview
-This project implements a **Sequence-to-Sequence (Seq2Seq)** translation model using an Encoder–Decoder architecture with Attention.
+This project implements a **Sequence-to-Sequence (Seq2Seq)** translation model using an Encoder Decoder architecture with Attention.
 
 The model takes sentences in a source language and translates them into a target language, focusing on:
 
@@ -18,10 +18,10 @@ The model takes sentences in a source language and translates them into a target
 This project demonstrates practical skills in:
 
 - Deep Learning for Natural Language Processing  
-- Encoder–Decoder architectures  
+- Encoder Decoder architectures  
 - Attention mechanisms  
 - PyTorch training pipelines  
-- Tokenization & text preprocessing  
+- Tokenization and text preprocessing  
 - Model evaluation and debugging  
 
 ---
@@ -31,7 +31,7 @@ This project demonstrates practical skills in:
 - Additive (Bahdanau-style) attention  
 - Teacher forcing for efficient training  
 - BLEU score evaluation  
-- Sentence tokenization & preprocessing  
+- Sentence tokenization and preprocessing  
 - Checkpoint saving/loading  
 - Modular codebase for easy experimentation  
 - Unit tests for training and inference behavior  
