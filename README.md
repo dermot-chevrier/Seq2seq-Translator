@@ -59,5 +59,5 @@ This project demonstrates practical skills in:
 ---
 
 ## Dataset
-This project uses a *parallel text dataset* for translation (e.g., English → German, English → French).  
+This project uses a parallel text dataset for translation (e.g., English → German, English → French).  
 The dataset is not included in this repository.
