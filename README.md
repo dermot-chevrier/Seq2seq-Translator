@@ -51,7 +51,7 @@ This project demonstrates practical skills in:
     ├── Tests/
     │   ├── save_vocab_test.py
     │   ├── test_decoder.py
-    │   ├── test_model.py           
+    │   └── test_model.py           
     │
     ├── README.md
     └── requirements.txt
